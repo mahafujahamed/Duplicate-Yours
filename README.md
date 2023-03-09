@@ -1,11 +1,8 @@
-### Hi there 👋, I'm Mahafuj Ahamed
-#### Web Developer
+## 👋, I'm Mahafuj Ahamed
+### Web Developer
 
-Skills:  REACT / JS / HTML / CSS / C / PYTHON
-
-- 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning JavaScript 
-- 👯 I’m looking to collaborate on Github 
+Skills:  REACT / JS / HTML / CSS / C / PYTHON 
+ 
 - 💬 Ask me about Web Developer 
 
 
