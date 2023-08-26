@@ -1,0 +1,4 @@
+- name: Github CI Bot
+  # You may pin to the exact commit or the version.
+  # uses: wzshiming/gh-ci-bot@c8a6225c069aaaa0e3095110f4c73f5ffa630042
+  uses: wzshiming/gh-ci-bot@v1
