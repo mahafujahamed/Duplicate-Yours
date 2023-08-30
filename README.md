@@ -1,5 +1,6 @@
-# Mahafuj Ahamed
-### Web Developer
+<div align="center">
+	<h1>Mahafuj Ahamed</h1>
+</div>
 
 Skills:  REACT / JS / HTML / CSS / C / PYTHON 
  
